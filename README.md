@@ -1,4 +1,4 @@
-# predicci-n-de-precio-bursatil
+# Predicción de precio bursátil
 
 Este repositorio contiene el notebook **RNN_Bolsa.ipynb**, donde se desarrolla un ejemplo sencillo de predicción del precio de una acción mediante redes neuronales recurrentes (LSTM).
 
